@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/cuestionario-programacion-iv.html" }
+  ]
+}
